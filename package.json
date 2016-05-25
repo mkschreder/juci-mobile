@@ -1,0 +1,21 @@
+{
+  "name": "juci-mobile",
+  "version": "2.16.05",
+  "description": "JUCI Mobile App Example",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mkschreder/juci-mobile.git"
+  },
+  "author": "Martin Schröder",
+  "license": "GPLv3",
+  "keywords": [
+    "ecosystem:phonegap",
+    "ecosystem:cordova",
+    "cordova:template",
+    "phonegap:template"
+  ],
+  "bugs": {
+    "url": "https://github.com/mkschreder/juci-mobile/issues"
+  },
+  "homepage": "https://github.com/mkschreder/juci-mobile"
+}
